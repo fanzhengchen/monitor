@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.iml
+*target
+*.idea
+*catalina.base_IS_UNDEFINED
+monitor-web/target
+monitor-web/*.iml
